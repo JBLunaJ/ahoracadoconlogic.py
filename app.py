@@ -1,8 +1,5 @@
 from logic import *
 
-# Definir la palabra a adivinar
-word = "ONOMATOPEYA"
-
 # Definir las letras posibles manualmente
 letters = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
 
